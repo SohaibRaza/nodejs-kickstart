@@ -1,0 +1,14 @@
+__mocks__
+.next
+build
+dist
+tmp
+lib
+node_modules
+public
+.storybook
+docs
+cypress
+.cache
+.apt
+embed/public/embed.js
